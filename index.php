@@ -7,8 +7,8 @@
 </head>
 <body>
     <?php
-    //  $food = "pizza";
-    // echo($food);
+     $food = "pizza";
+    echo($food);
 
     // $x=10;
     // define("cars",['BMW','Toyota','Mazada']);
@@ -23,7 +23,7 @@
     //     else{
     //         echo'have a nice day';
     //     }
-        echo "welcome"
+        // echo "welcome"
     
 
     ?>
