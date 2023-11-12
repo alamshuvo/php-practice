@@ -15,7 +15,16 @@
 // echo $name;
 // variable is changeable but const is not changeable
 
-const NID = 3753772239;
-$nid = NID;
+// const NID = 3753772239;
+// $nid = NID;
 
-echo "My NID is $nid";
+// echo "My NID is $nid";
+
+$number = 12340;
+$string = "alamshuvo";
+$boolean = true;
+$floot = 10.5;
+$null = null ;
+$array= [1,2,3,4];
+// resource ;
+var_dump($objecty);
