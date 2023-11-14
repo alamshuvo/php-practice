@@ -68,3 +68,57 @@
 //     echo $name;
     
 // }
+
+
+// null type only return null
+//boolian type only return true flase .
+//  var_dump(25/7);
+//  var_dump(round(25/7));
+//  var_dump ((int)(25/7));
+
+// echo 'This is a simple string';
+
+// echo <<<END 
+//              "y 
+//        n
+// a"
+// END;
+
+// Outputs: Arnold once said: "I'll be back"
+// echo 'Arnold once said : "I\'ll be back" ';
+
+
+// Outputs: You deleted C:\*.*?
+// echo "you deleted c:\*.*?";
+
+
+// Outputs: This will not expand: \n a newline
+// echo 'This will not expand :\n a newline';
+
+
+// Outputs: Variables do not $expand $either
+// echo 'Variables do not $expand $either ';
+
+// echo <<<'EOD'
+// Example of string spanning multiple lines
+// using nowdoc syntax. Backslashes are always treated literally,
+// e.g. \\ and \'.
+// EOD;
+// echo 'You can also have embedded newlines in "\n"
+// strings this way as it is
+// okay to do';
+
+// echo <<<END
+//                 "you also have embeded
+//         new line as strings this way
+//     as it is okay to do"
+// END;
+
+// const dbHost ="local host"
+
+
+// echo dbHost ;
+
+
+
+?>
