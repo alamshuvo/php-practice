@@ -114,10 +114,10 @@
 //     as it is okay to do"
 // END;
 
-// const dbHost ="local host"
+const dbHost ="local host"
 
 
-// echo dbHost ;
+echo dbHost ;
 
 
 
