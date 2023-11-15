@@ -104,6 +104,55 @@
 //x er man 100 er soman na hole echo koro ...
 
 
+//amra jodi kono kisu jukto korte cai 
+// $text1= "hellow";
+// $text2=" world";
+// $text1 .= $text2;
+// echo $text1 ;
 
 
-?>
+//array php te 2 baabe use kora jai akta hocche 3rd bracket dyea r akta  hocche array likhe parenthasis dyesa 
+// $x = ["a"=>"red","b"=>"green"];
+// $y = ["c"=>"blue","d"=>"purple"];
+// echo var_dump($x+$y);
+
+
+// equal operator 
+// $x = ["a"=>"red","b"=>"green"];
+// $y = ["c"=>"blue","d"=>"purple"];
+// var_dump($x==$y);
+
+// 2 ta array soman kina dekhar jonno == beboyhar kora hoi 
+
+//conditional operator :
+
+
+// $x=10;
+// $y=10;
+// if ($x==$y) {
+
+//     echo "this condition is match";
+// }
+
+// else {
+//      echo "This condition is not matched ";
+// }
+
+
+
+// echo $x==$y ? "this is match" : "this is not  match";
+//ei format ta k bole tarnery operator 
+//details about terneary operator 
+
+
+
+
+//null polshing operator 
+// $abc=null ;
+//  echo $abc ?? 'cde';
+
+
+
+
+
+
