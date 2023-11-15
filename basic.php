@@ -108,16 +108,16 @@
 // strings this way as it is
 // okay to do';
 
-// echo <<<END
-//                 "you also have embeded
-//         new line as strings this way
-//     as it is okay to do"
-// END;
+echo <<<END
+                "you also have embeded
+        new line as strings this way
+    as it is okay to do"
+END;
 
-const dbHost ="local host"
+// const dbHost ="local host"
 
 
-echo dbHost ;
+// echo  "dbHost";
 
 
 
