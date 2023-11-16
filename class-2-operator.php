@@ -152,7 +152,16 @@
 //  echo $abc ?? 'cde';
 
 
+//r akta page k include korar jonno .
 
+// require 'class-3.php';
+// echo 'class-2-operator.php' . PHP_EOL;
+// include 'class-5.php';
+// echo 'class-2-operator.php' . PHP_EOL;
+// require_once 'class-3.php';
+// echo 'class-2-operator.php' . PHP_EOL;
+// include_once 'class-3.php';
+// echo 'class-2-operator.php' . PHP_EOL;
 
 
 
