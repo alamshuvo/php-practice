@@ -108,11 +108,11 @@
 // strings this way as it is
 // okay to do';
 
-echo <<<END
-                "you also have embeded
-        new line as strings this way
-    as it is okay to do"
-END;
+// echo <<<END
+//                 "you also have embeded
+//         new line as strings this way
+//     as it is okay to do"
+// END;
 
 // const dbHost ="local host"
 
@@ -120,5 +120,11 @@ END;
 // echo  "dbHost";
 
 
+include_once 'class-4.php';
 
-?>
+
+echo avg  (20,10,30,40,50,40,80,50,60,5);
+
+
+
+
